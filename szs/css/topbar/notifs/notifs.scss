@@ -1,0 +1,12 @@
+#tb-notifs {
+    color: #fff;
+    font-weight: 800;
+    font-size: 1rem;
+    padding: 0.15rem 0.35rem;
+    border-radius: 1rem;
+
+    &:hover {
+        cursor: pointer;
+        background-color: #4a5697;
+    }
+}
